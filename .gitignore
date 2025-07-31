@@ -1,0 +1,4 @@
+todo.txt
+venv/
+__pycache__/
+Data.db
